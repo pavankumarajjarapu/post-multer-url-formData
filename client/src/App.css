@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: azure;
+  box-shadow: 2px 3px 5px gray;
+  border-radius: 5px;
+  margin-top: 20px;
+  
+}
+form label{
+  width: 240px;
+  display: inline-block;
+  font-size: 20px;
+  font-family:monospace;
+  color: rgba(0, 0, 0, 0.425);
+}
+div{
+  margin: 20px;
+}
+form input{
+  height: 24px;
+  border-radius: 3px;
+}
+h1{
+  font-family: serif;
+  color: #e47906b7;
+}
+button{
+  width: 150px;
+  height: 30px;
+  font-family: serif;
+  border-radius: 5px;
+  margin: 20px;
+  background-color: rgba(250, 235, 215, 0.477);
+  font-size: 20px;
+  color: rgba(236, 13, 102, 0.95);
+}
+.imgContainer{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid rgba(128, 128, 128, 0.477);
+}
+.imginput{
+  width: 200px;
+}
